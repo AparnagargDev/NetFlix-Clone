@@ -32,10 +32,11 @@ Edit
 
 ## 📸 Screenshot
 
-./images/Homepage.png
-./images/faqSection.png
-./images/Plan and Reason to Join Section.png
-./images/TrendingNowSection.png
+[Homepage](./images/Homepage.png)  
+[FAQ Section](./images/faqSection.png)  
+[Plans and Reasons](./images/Plan%20and%20Reason%20to%20Join%20Section.png)  
+[Trending Now Section](./images/TrendingNowSection.png)
+
 
 
 
